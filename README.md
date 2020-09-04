@@ -1,5 +1,5 @@
 # RSW Agenda de Contatos
-Projeto de "esquenta" para o Projeto Final do Serratec.
+Projeto "esquenta" para o Projeto Final do Serratec.
 
 <strong>Contribuidores:</strong> roalvesrj, GuilhermeSabinoRocha, Alan-Patrik, Txyzz<br>
 <strong>Versão estável:</strong> 1.0.0<br>
