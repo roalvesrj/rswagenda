@@ -11,3 +11,7 @@ Projeto "esquenta" para o Projeto Final do Serratec.
 <h2>Descrição</h2>
 Gerencie seus contatos de forma simples e objetiva.<br><br>
 
+<h2>Projeto</h2>
+Diagrama de relacionamento:
+https://app.lucidchart.com/documents/edit/6b7ef916-bea0-4ca6-b6bd-37c88b0467e5/ZBMsT5gSCA3P
+
