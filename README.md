@@ -1,7 +1,7 @@
 # RSW Agenda de Contatos
 Projeto "esquenta" para o Projeto Final do Serratec.
 
-<strong>Contribuidores:</strong> @roalvesrj, @GuilhermeSabinoRocha, @Alan-Patrik, @Txyzz<br>
+<strong>Contribuidores:</strong> https://github.com/roalvesrj, https://github.com/GuilhermeSabinoRocha, https://github.com/Alan-Patrik, https://github.com/Txyzz<br>
 <strong>Versão estável:</strong> 1.0.0<br>
 <strong>Versão PHP:</strong> 7.4<br>
 <strong>Licença:</strong> GPLv3 or later<br>
